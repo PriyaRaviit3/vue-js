@@ -1,0 +1,24 @@
+api link deploy data to azure: http://itemdemoapplication.azurewebsites.net/API/ITEMS/post
+
+vue js deploy code to azure:   https://testitemsdemo.azurewebsites.net/
+
+
+how to run vue js in command prompt:
+step 1:
+	select the path.
+step 2:
+	npm run build.
+step:
+	your project will be done.
+	
+	
+	use this link for youe veryfication:
+
+
+	https://www.youtube.com/watch?v=WDqnaZFE7Oc
+
+
+	https://www.udemy.com/rest-apis-in-aspnet-core/learn/v4/t/lecture/9442694?start=15
+
+
+	https://www.udemy.com/vuejs-2-the-complete-guide/learn/v4/t/lecture/5976300?start=135
